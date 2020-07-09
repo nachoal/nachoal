@@ -4,7 +4,7 @@
   <a href="https://ignacio.al">Blog</a> •
   <a href="https://twitter.com/ignacioaal">Twitter</a> •
   <a href="https://www.producthunt.com/@ignacioaal/">Product Hunt </a> •
-  <a href="https://www.linkedin.com/in/ignacioaal/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ignacioaal/">LinkedIn</a>
 </p>
 
 ---
