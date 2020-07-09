@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**nachoal/nachoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on a Rails GraphQL API communicating with a React Frontend at [higo.io](http://higo.io/), Teaching Fullstack Development at [Le Wagon](https://github.com/lewagon/) and launching side projects at [Codia](https://www.codia.co)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.-.__      \ .-.  ___  __
+|_|  '--.-.-(   \/\;;\_\.-._______.-.
+(-)___     \ \ .-\ \;;\(   \       \ \
+ Y    '---._\_((Q)) \;;\\ .-\     __(_)
+ I           __'-' / .--.((Q))---'    \,
+ I     ___.-:    \|  |   \'-'_          \
+ A  .-'      \ .-.\   \   \ \ '--.__     '\
+ |  |____.----((Q))\   \__|--\_      \     '
+    ( )        '-'  \_  :  \-' '--.___\
+     Y                \  \  \       \(_)
+     I                 \  \  \         \,
+     I                  \  \  \          \
+     A                   \  \  \          '\
+     |              snd   \  \__|           '
+                           \_:.  \
+                             \ \  \
+                              \ \  \
+                               \_\_|
