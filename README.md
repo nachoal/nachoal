@@ -16,3 +16,5 @@ I'm a Software Engineer currently working on a Rails GraphQL API communicating w
 - 💬 Ask me about Ruby/Rails and Javascript
 - 📫 How to reach me: <a href="https://twitter.com/ignacioaal">@ignacioaal</a> 
 - 😄 Fun fact: I spend more time than I should playing Fortnite
+
+<script async data-uid="fde0b71410" src="https://motivated-experimenter-9595.ck.page/fde0b71410/index.js"></script>
