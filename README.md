@@ -9,13 +9,13 @@
 
 ---
 
-I'm a Software Engineer currently working on a Rails GraphQL API communicating with a React Frontend at [higo.io](http://higo.io/), Teaching Fullstack Development at [Le Wagon](https://github.com/lewagon/) and launching side projects at [Codia](https://www.codia.co)
+I'm a Founder and Software Engineer making digital products with a focus on profitability. I also teach how to code at the #1 Coding Bootcamp in the world.
 
-- 🔭 I’m writing a book on getting a job as a bootcamp graduate, [you can read the draft here](https://www.ignacio.al/how-to-get-a-job-after-a-coding-bootcamp.html)
-- 🌱 I’m also learning more about Docker + Kubernetes
+I have experience in different startup environments and know how to launch digital products, reduce costs and raise revenue by using technology strategically. Want to have a [virtual coffee?](https://calendly.com/ignacioaal/30min)
+
+- 🔭 I write, [here's my latest post](https://www.ignacio.al/how-to-get-a-job-after-a-coding-bootcamp.html)
 - 💬 Ask me about Ruby/Rails and Javascript
 - 📫 How to reach me: <a href="https://twitter.com/ignacioaal">@ignacioaal</a> 
-- 😄 Fun fact: I spend more time than I should playing Fortnite
 
 <span align="center">Subscribe to my list to get tutorials, summaries and notes about the tech I'm learning: [here](https://motivated-experimenter-9595.ck.page/fde0b71410) </span>
 
