@@ -16,6 +16,7 @@ I have experience in different startup environments and know how to launch digit
 - 🔭 I write, [here's my latest post](https://www.ignacio.al/how-to-get-a-job-after-a-coding-bootcamp.html)
 - 💬 Ask me about Ruby/Rails and Javascript
 - 📫 How to reach me: <a href="https://twitter.com/ignacioaal">@ignacioaal</a> 
+- 🦊 My other profile is a [Gitlab](https://gitlab.com/nachoal)
 
 <span align="center">Subscribe to my list to get tutorials, summaries and notes about the tech I'm learning: [here](https://motivated-experimenter-9595.ck.page/fde0b71410) </span>
 
