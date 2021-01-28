@@ -9,7 +9,7 @@
 
 ---
 
-I'm a Founder and Software Engineer making digital products with a focus on profitability. I also teach how to code at the #1 Coding Bootcamp in the world.
+I'm a Founder and Software Engineer making digital products with a focus on profitability.
 
 I have experience in different startup environments and know how to launch digital products, reduce costs and raise revenue by using technology strategically. Want to have a [virtual coffee?](https://calendly.com/ignacioaal/30min)
 
