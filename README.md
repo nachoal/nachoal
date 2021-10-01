@@ -11,7 +11,7 @@
 
 I'm a Founder and Software Engineer making digital products with a focus on profitability.
 
-I have experience in different startup environments and know how to launch digital products, reduce costs and raise revenue by using technology strategically. Want to have a [virtual coffee?](https://calendly.com/ignacioaal/30min)
+I have experience in different startup environments and know how to launch digital products, reduce costs and raise revenue by using technology strategically. Want to have a [virtual coffee?](https://calendly.com/ignacioaal/30min) (no recruitment calls please)
 
 - 🔭  I write, [here's my latest post](https://www.ignacio.al/how-to-get-a-job-after-a-coding-bootcamp.html)
 - 💬  Ask me about Ruby/Rails and Javascript/React 
