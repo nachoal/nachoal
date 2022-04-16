@@ -9,7 +9,7 @@
 
 ---
 
-I'm a Founder and Software Engineer making digital products with a focus on profitability.
+Code & words.
 
 I have experience in different startup environments and know how to launch digital products, reduce costs and raise revenue by using technology strategically.
 - 🔭  I write, [here's my latest post](https://www.ignacio.al/how-to-get-a-job-after-a-coding-bootcamp.html)
