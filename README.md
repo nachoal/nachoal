@@ -2,4 +2,4 @@
 
 ---
 
-Currently: Working on automating customer support for my startup & building AI OSS like https://github.com/nachoal/aig
+Currently: Working on launching a new product & building AI OSS like https://github.com/nachoal/aig
