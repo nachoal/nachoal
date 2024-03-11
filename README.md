@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello there! I'm Ignacio, An AI engineer and founder.</h3>
+<h3 align="center">👋 Hello there! I'm Ignacio, An AI engineer and Founder.</h3>
 
 ---
 
