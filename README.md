@@ -2,4 +2,4 @@
 
 ---
 
-Currently: Working on my AI apps business 
+Currently: Working on my AI business and travelling the world.
