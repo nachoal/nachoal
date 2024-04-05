@@ -2,4 +2,4 @@
 
 ---
 
-Currently: Working on my AI business and travelling the world.
+Now: Working on my AI business and travelling the world. Currently in Tokyo 🇯🇵
