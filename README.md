@@ -2,4 +2,4 @@
 
 ---
 
-Now: Working on my AI business.
+Now: Working on my AI businesses
