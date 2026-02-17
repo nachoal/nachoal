@@ -32,7 +32,7 @@
 
 - **Revenue apps**: Rails + Tailwind
 - **AI/ML tooling**: Python + uv
-- **Agent workflows**: Claude Code, MCP servers, multi-agent setups
+- **Agent workflows**: Claude Code, Codex, MCP servers, multi-agent setups
 
 ---
 
