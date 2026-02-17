@@ -22,7 +22,7 @@
 
 ## Projects
 
-- 🌳 **[gwt](https://github.com/nachoal/gwt)** - Git worktree manager with beautiful TUI, auto-setup, and shell integration
+- 🌳 **[gwt](https://github.com/nachoal/gwt)** - Git worktree manager built for AI agents and parallel coding workflows
 - 🚀 **[ai-fleet](https://github.com/nachoal/ai-fleet)** - AI Agent fleet manager for parallel agentic systems like Claude Code and Codex
 - 🤖 **[simple-agent-go](https://github.com/nachoal/simple-agent-go)** - Build AI agents in Go with parallel tools, streaming responses, and a delightful terminal UI
 - 💎 **[simple_agent_rb](https://github.com/nachoal/simple_agent_rb)** - A simple ReAct agent implementation in Ruby
