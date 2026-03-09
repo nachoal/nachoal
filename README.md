@@ -22,6 +22,7 @@
 
 ## Projects
 
+- 🎙️ **[mlx-stt](https://github.com/nachoal/mlx-stt)** - MLX-first local STT CLI for agents on macOS, with Qwen3-ASR and Parakeet backend selection
 - 🌳 **[gwt](https://github.com/nachoal/gwt)** - Git worktree manager built for AI agents and parallel coding workflows
 - 🚀 **[ai-fleet](https://github.com/nachoal/ai-fleet)** - AI Agent fleet manager for parallel agentic systems like Claude Code and Codex
 - 🤖 **[simple-agent-go](https://github.com/nachoal/simple-agent-go)** - Build AI agents in Go with parallel tools, streaming responses, and a delightful terminal UI
